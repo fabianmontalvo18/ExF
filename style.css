@@ -1,0 +1,25 @@
+p{
+    text-align: center;
+    margin-top: 50px;
+}
+.img1{
+    width: 150px;
+    border-radius: 150px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    transform: translate(555px);
+    
+}
+span{
+    font-size: 30px;
+}
+.img2{
+    transform: translate(360px);
+    margin-top: 40px;
+}
+
+
+
+
+
+
